@@ -3,6 +3,12 @@
 Theme Footer File
 */
 ?>
-footer
+</div>
+<footer>
+	
+</footer>
+
 </body>
 </html>
+
+
